@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32214D32-FCCC-47D1-9A92-4F24B6247B7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9452703C-614A-4C25-9DA8-85B56B4EFF6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberSwiftUITutorial/Core/Views/MapViewActionButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87CEE162-5236-438C-99A3-2CAAC6683FE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UberSwiftUITutorial/Core/LocationSearch/SavedLocationSearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "SavedLocationSearchView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "87CEE162-5236-438C-99A3-2CAAC6683FE3 - 91e01ab2c6a96d57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of UberSwiftUITutorial.SavedLocationSearchView.text : Swift.String"
+                  moduleName = "UberSwiftUITutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Mac%20storage/IOS_Development/UberSwiftUITutorial/UberSwiftUITutorial/Core/LocationSearch/SavedLocationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  uuid = "87CEE162-5236-438C-99A3-2CAAC6683FE3 - 6fd1b05cd43877c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UberSwiftUITutorial.SavedLocationSearchView.init() -&gt; UberSwiftUITutorial.SavedLocationSearchView"
+                  moduleName = "UberSwiftUITutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Mac%20storage/IOS_Development/UberSwiftUITutorial/UberSwiftUITutorial/Core/LocationSearch/SavedLocationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "87CEE162-5236-438C-99A3-2CAAC6683FE3 - c3fc12105a8d6f94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UberSwiftUITutorial.SavedLocationSearchView.init(viewModel: @autoclosure () -&gt; UberSwiftUITutorial.LocationSearchViewModel) -&gt; UberSwiftUITutorial.SavedLocationSearchView"
+                  moduleName = "UberSwiftUITutorial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Mac%20storage/IOS_Development/UberSwiftUITutorial/UberSwiftUITutorial/Core/LocationSearch/SavedLocationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
